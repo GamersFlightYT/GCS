@@ -1,0 +1,9 @@
+1. Press these keys
+   CTRL + SHIFT + ESC
+2. Close this task
+   GCS.exe (32-bit)
+3. Open this dir
+   C:\Users\(Ur username)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+4. Delete this file
+   GCS.exe
+5. Restart ur computer
